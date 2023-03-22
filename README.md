@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Software Engineer Student At ALX.<br>🌱 Interested in Web Development  specifically. DevOps, CyberSecurity<br>
+🔭 Software Engineer Student At ALX.<br>🌱 Interested in Web Development.<br>
 
 
 ## 🌐 Socials:
