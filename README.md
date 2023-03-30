@@ -20,5 +20,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=walidlatif&icon=1&color=12)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=walidlatif&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
