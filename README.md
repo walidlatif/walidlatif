@@ -1,3 +1,8 @@
+[![](https://visitcount.itsvg.in/api?id=walidlatif&icon=1&color=12)](https://visitcount.itsvg.in)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+---
+
 # 💫 About Me:
 🔭 Software Engineer Student At ALX.<br>🌱 Interested in Web Development.<br>
 
@@ -14,7 +19,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=walidlatif&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=walidlatif&icon=1&color=12)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
