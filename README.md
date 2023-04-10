@@ -1,3 +1,4 @@
+[![](https://visitcount.itsvg.in/api?id=walidlatif&icon=5&color=9)](https://visitcount.itsvg.in)
 # 💫 About Me:
 🔭 Software Engineer Student.<br>🌱 Interested in Web and mobile Development.
 
@@ -28,6 +29,6 @@
 <img src="https://rm.up.railway.app/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=walidlatif&icon=5&color=9)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
