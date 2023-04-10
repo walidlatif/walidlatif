@@ -1,4 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=walidlatif&icon=5&color=9)](https://visitcount.itsvg.in)
+
+<h1 align="center">Hi 👋, I'm Walid</h1>
+
 # 💫 About Me:
 🔭 Software Engineer Student.<br>🌱 Interested in Web and mobile Development.
 
