@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Walid</h1>
 
 # 💫 About Me:
-🔭 Software Engineer Student.<br>🌱 Interested in Web and mobile Development.
+🔭 Software Engineer Student.<br>🌱 Interested in Web and mobile App Development.
 
 
 ## 🌐 Socials:
