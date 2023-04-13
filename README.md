@@ -4,7 +4,7 @@
 
 
 # 💫 About Me:
-🔭 Software Engineer Student.<br>🌱 Interested in Web and mobile App Development.
+🌱 Interested in Web and mobile App Development.
 
 
 ## 🌐 Socials:
