@@ -16,11 +16,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=walidlatif&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=walidlatif&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=walidlatif&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=walidlatif01)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=walidlatif&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
