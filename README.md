@@ -3,7 +3,7 @@
 [![](https://visitcount.itsvg.in/api?id=walidlatif&icon=5&color=9)](https://visitcount.itsvg.in)
 
 
-# 💫 About Me:
+# About Me:
 🌱 Interested in Web and mobile App Development.
 
 
