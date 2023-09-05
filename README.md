@@ -4,7 +4,7 @@
 
 
 # About Me:
-🌱 Interested in Web and Mobile App Development.
+🌱 "Passionate about Web and Mobile App Development, I thrive on turning ideas into interactive digital experiences.<br> 🌐📱 Let's bring your vision to life through innovative technology!"
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=walidlatif&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=walidlatif&theme=radical&hide_border=false)
